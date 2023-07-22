@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/icons/wizard-add.png</file>
+        <file>ressources/icons/jiguiviou.png</file>
+        <file>ressources/icons/remove-camera.png</file>
+        <file>ressources/icons/run.png</file>
+        <file>ressources/icons/stop.png</file>
+        <file>ressources/icons/configure-device.png</file>
+        <file>ressources/icons/video-off.png</file>
+        <file>ressources/icons/video-on.png</file>
+        <file>ressources/icons/record-off.png</file>
+        <file>ressources/icons/record-on.png</file>
+    </qresource>
+</RCC>
